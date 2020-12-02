@@ -9,37 +9,47 @@
 
 <url>
   <loc>https://zevis.net/</loc>
-  <lastmod>2020-11-29T21:00:33+00:00</lastmod>
+  <lastmod>2020-12-02T22:54:01+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://zevis.net/index.html</loc>
-  <lastmod>2020-11-29T21:00:33+00:00</lastmod>
+  <lastmod>2020-12-02T22:54:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zevis.net/procesvodjenja_zev.html</loc>
-  <lastmod>2020-11-29T21:00:33+00:00</lastmod>
+  <lastmod>2020-12-02T22:54:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zevis.net/registracija_zev.html</loc>
-  <lastmod>2020-11-29T21:00:33+00:00</lastmod>
+  <lastmod>2020-12-02T22:54:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zevis.net/obracuntroskova_zev.html</loc>
-  <lastmod>2020-11-29T21:00:33+00:00</lastmod>
+  <lastmod>2020-12-02T22:54:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zevis.net/zavsniracun_zev.html</loc>
+  <lastmod>2020-12-02T22:54:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zevis.net/naplatapotrazivanja_zev.html</loc>
-  <lastmod>2020-11-29T21:00:33+00:00</lastmod>
+  <lastmod>2020-12-02T22:54:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zevis.net/predsjednik_zev.html</loc>
+  <lastmod>2020-12-02T22:54:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zevis.net/zevis_flajer.pdf</loc>
-  <lastmod>2020-11-29T21:00:33+00:00</lastmod>
+  <lastmod>2020-12-02T22:54:01+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
