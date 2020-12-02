@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Calibri Light", sans-serif;
   color: #444444;
 }
 
@@ -23,7 +23,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Calibri Light", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 997;
   transition: all 0.5s;
   padding: 15px 0;
-  background: #fff;
+  background: #009cea;
 }
 
 #header.header-scrolled {
@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #576971;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -112,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header Social Links
 --------------------------------------------------------------*/
 .header-social-links a {
-  color: #7b909a;
+  color: #ffffff;
   padding: 12px 0 12px 6px;
   display: inline-block;
   line-height: 1px;
@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #7b909a;
+  color: #ffffff;
   padding: 10px 15px;
   transition: 0.3s;
   font-size: 15px;
@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #009cea;
+  color: #ffffff;
   text-decoration: none;
 }
 

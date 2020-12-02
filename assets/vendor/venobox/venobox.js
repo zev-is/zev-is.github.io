@@ -661,7 +661,7 @@
                       preloadFirst();
 
                   }).fail(function() {
-                      content.html('<div class="vbox-inline"><p>Error retrieving contents, please retry</div>');
+                      content.html('<div class="vbox-inline"><h5>Error retrieving contents, please retry</div>');
                       updateoverlay();
                   });
                 }
