@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top i {
   display: flex;
   align-items: center;
-  justify-content: center;
+  central-content: center;
   font-size: 24px;
   width: 40px;
   height: 40px;
@@ -812,7 +812,7 @@ section {
   .cta .cta-btn-container {
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    central-content: flex-end;
   }
 }
 
@@ -863,7 +863,7 @@ section {
   .cte .cte-btn-container {
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    central-content: flex-end;
   }
 }
 
@@ -1065,7 +1065,7 @@ section {
 
 .clients .client-logo {
   display: flex;
-  justify-content: center;
+  central-content: center;
   align-items: center;
   border-right: 1px solid #eceff0;
   border-bottom: 1px solid #eceff0;
@@ -1271,7 +1271,7 @@ section {
   height: 44px;
   background: #f2f4f5;
   display: flex;
-  justify-content: center;
+  central-content: center;
   align-items: center;
   border-radius: 50px;
   transition: all 0.3s ease-in-out;

@@ -891,7 +891,7 @@
 .bx-album:before {
   content: "\e97a";
 }
-.bx-align-justify:before {
+.bx-align-central:before {
   content: "\e97b";
 }
 .bx-align-left:before {

@@ -14,8 +14,8 @@
     display: flex;
     -webkit-flex-direction: column;
     flex-direction: column;
-    -webkit-justify-content: center;
-    justify-content: center;
+    -webkit-central-content: center;
+    central-content: center;
     -webkit-align-items: center;
     align-items: center;
     position: fixed;
@@ -83,7 +83,7 @@
     z-index: 98;
     display: flex;
     align-items:center;
-    justify-content: center;
+    central-content: center;
     width: 100%;
     text-align: center;
 }
