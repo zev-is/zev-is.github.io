@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Calibri Light", sans-serif;
-  color: #444444;
+  color: #313131;
 }
 
 a {
@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #ffffff;
+  color: #a9d5f3;
   text-decoration: none;
 }
 
@@ -193,7 +193,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #ffffff;
+  color: #a9d5f3;
 }
 
 .nav-menu .drop-down > a:after {
