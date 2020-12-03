@@ -451,7 +451,7 @@ section {
 }
 
 .about .container {
-  background-color: #f7f8f9;
+  background-color: #ffffff;
   padding: 60px 50px;
 }
 
@@ -785,7 +785,7 @@ section {
 }
 
 .cta .cta-btn {
-  font-family: "Raleway", sans-serif;
+  font-family: "Calibri Light", sans-serif;
   font-weight: 500;
   font-size: 15px;
   letter-spacing: 1px;
@@ -821,15 +821,15 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cto {
-  background: linear-gradient(rgba(255, 255, 255, 0.274), rgba(255, 255, 255, 0.281)), url("../img/cto-bg.jpg") center center;
+  background: linear-gradient(rgba(255, 255, 255, 0.062), rgba(255, 255, 255, 0.062)), url("../img/cto-bg.jpg") center center;
   background-size: cover;
-  padding: 150px 0;
+  padding: 250px 0;
 }
 
 .cto h3 {
   color: #364146;
   font-size: 28px;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .cto p {
