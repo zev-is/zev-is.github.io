@@ -1812,7 +1812,7 @@ section {
   background: #f7f8f9;
   padding: 0 0 30px 0;
   color: #364146;
-  font-size: 14px;
+  font-size: 19px;
 }
 
 #footer .footer-top {
@@ -1835,7 +1835,7 @@ section {
 }
 
 #footer .footer-top .footer-info p {
-  font-size: 14px;
+  font-size: 19px;
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Calibri Light", sans-serif;
@@ -1864,7 +1864,7 @@ section {
 }
 
 #footer .footer-top h4 {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 600;
   color: #364146;
   position: relative;
@@ -1884,7 +1884,7 @@ section {
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
   color: #009cea;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1;
   margin-left: -5px;
 }
