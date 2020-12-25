@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top i {
   display: flex;
   align-items: center;
-  central-content: center;
+  justify-content: center;
   font-size: 24px;
   width: 40px;
   height: 40px;
@@ -812,7 +812,7 @@ section {
   .cta .cta-btn-container {
     display: flex;
     align-items: center;
-    central-content: flex-end;
+    justify-content: flex-end;
   }
 }
 
@@ -864,7 +864,7 @@ section {
   .cto .cto-btn-container {
     display: flex;
     align-items: center;
-    central-content: flex-end;
+    justify-content: flex-end;
   }
 }
 
