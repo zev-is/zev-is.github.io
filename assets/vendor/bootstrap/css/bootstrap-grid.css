@@ -1421,7 +1421,7 @@ html {
 
 .central-content-start {
   -ms-flex-pack: start !important;
-  central-content: flex-start !important;
+  , flex-start !important;
 }
 
 .central-content-end {
