@@ -6,15 +6,22 @@
 */
 
 /*--------------------------------------------------------------
+# Custom
+--------------------------------------------------------------*/
+.text-position {
+  text-align: left;
+}
+/*for screen sizes greater than 600px, justify align*/
+@media only screen and ( min-width: 600px ) {
+  .text-position { text-align: justify; }
+}
+
+/*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
   font-family: "Calibri Light", sans-serif;
   color: #313131;
-}
-
-.text-position {
-  text-align: justify;
 }
 
 a {
