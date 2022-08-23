@@ -13,6 +13,10 @@ body {
   color: #313131;
 }
 
+.text-position {
+  text-align: justify;
+}
+
 a {
   color: #009cea;
 }
