@@ -827,14 +827,274 @@ section {
 
 /*--------------------------------------------------------------
 
-# Cta
+
+# Cta2
+--------------------------------------------------------------*/
+.cta2 {
+  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.5)), url("../img/cta2-bg.jpg") center center;
+  background-size: cover;
+  padding: 140px 0;
+}
+
+.cta2 h3 {
+  color: #364146;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.cta2 p {
+  color: #576971;
+}
+
+.cta2 .cta2-btn {
+  font-family: "Calibri Light", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 4px;
+  transition: 0.5s;
+  margin: 10px;
+  color: #fff;
+  background: #009cea;
+}
+
+.cta2 .cta2-btn:hover {
+  background: #008bd1;
+}
+
+@media (min-width: 1024px) {
+  .cta2 {
+    background-attachment: fixed;
+  }
+}
+
+@media (min-width: 769px) {
+  .cta2 .cta-btn-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+}
+
+/*--------------------------------------------------------------
+
+# Cta4
+--------------------------------------------------------------*/
+.cta4 {
+  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.5)), url("../img/cta4-bg.jpg") center center;
+  background-size: cover;
+  padding: 140px 0;
+}
+
+.cta4 h3 {
+  color: #364146;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.cta4 p {
+  color: #576971;
+}
+
+.cta4 .cta2-btn {
+  font-family: "Calibri Light", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 4px;
+  transition: 0.5s;
+  margin: 10px;
+  color: #fff;
+  background: #009cea;
+}
+
+.cta4 .cta2-btn:hover {
+  background: #008bd1;
+}
+
+@media (min-width: 1024px) {
+  .cta4 {
+    background-attachment: fixed;
+  }
+}
+
+@media (min-width: 769px) {
+  .cta4 .cta4-btn-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+}
+
+
+/*--------------------------------------------------------------
+# Cta5
+--------------------------------------------------------------*/
+.cta5 {
+  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.5)), url("../img/cta5-bg.jpg") center center;
+  background-size: cover;
+  padding: 140px 0;
+}
+
+.cta5 h3 {
+  color: #364146;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.cta5 p {
+  color: #576971;
+}
+
+.cta5 .cta5-btn {
+  font-family: "Calibri Light", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 4px;
+  transition: 0.5s;
+  margin: 10px;
+  color: #fff;
+  background: #009cea;
+}
+
+.cta5 .cta5-btn:hover {
+  background: #008bd1;
+}
+
+@media (min-width: 1024px) {
+  .cta5 {
+    background-attachment: fixed;
+  }
+}
+
+@media (min-width: 769px) {
+  .cta5 .cta5-btn-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+}
+
+/*--------------------------------------------------------------
+
+# Cta6
+--------------------------------------------------------------*/
+.cta6 {
+  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.5)), url("../img/cta6-bg.jpg") center center;
+  background-size: cover;
+  padding: 140px 0;
+}
+
+.cta6 h3 {
+  color: #364146;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.cta6 p {
+  color: #576971;
+}
+
+.cta6 .cta-btn {
+  font-family: "Calibri Light", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 4px;
+  transition: 0.5s;
+  margin: 10px;
+  color: #fff;
+  background: #009cea;
+}
+
+.cta6 .cta6-btn:hover {
+  background: #008bd1;
+}
+
+@media (min-width: 1024px) {
+  .cta6 {
+    background-attachment: fixed;
+  }
+}
+
+@media (min-width: 769px) {
+  .cta6 .cta6-btn-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+}
+
+/*--------------------------------------------------------------
+
+# Cta3
+--------------------------------------------------------------*/
+.cta3 {
+  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.5)), url("../img/cta3-bg.jpg") center center;
+  background-size: cover;
+  padding: 140px 0;
+}
+
+.cta3 h3 {
+  color: #364146;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.cta3 p {
+  color: #576971;
+}
+
+.cta3 .cta3-btn {
+  font-family: "Calibri Light", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 4px;
+  transition: 0.5s;
+  margin: 10px;
+  color: #fff;
+  background: #009cea;
+}
+
+.cta3 .cta2-btn:hover {
+  background: #008bd1;
+}
+
+@media (min-width: 1024px) {
+  .cta3 {
+    background-attachment: fixed;
+  }
+}
+
+@media (min-width: 769px) {
+  .cta3 .cta3-btn-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+}
+
+/*--------------------------------------------------------------
+
 
 # Cta
 --------------------------------------------------------------*/
 .cta1 {
   background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.5)), url("../img/cta1-bg.jpg") center center;
   background-size: cover;
-  padding: 180px 0;
+  padding: 160px 0;
 }
 
 .cta1 h3 {
@@ -884,7 +1144,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cto {
-  background: linear-gradient(rgba(255, 255, 255, 0.062), rgba(255, 255, 255, 0.062)), url("../img/cto-bg.jpg") center center;
+  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.5)), url("../img/cto-bg.jpg") center center;
   background-size: cover;
   padding: 140px 0;
 }
@@ -936,9 +1196,9 @@ section {
 # Cte
 --------------------------------------------------------------*/
 .cte {
-  background: linear-gradient(rgba(255, 255, 255, 0.329), rgba(255, 255, 255, 0.404)), url("../img/cte-bg.jpg") center center;
+  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.5)), url("../img/cte-bg.jpg") center center;
   background-size: cover;
-  padding: 180px 0;
+  padding: 140px 0;
 }
 
 .cte h3 {
@@ -985,65 +1245,12 @@ section {
 
 
 
-# Ctz
---------------------------------------------------------------*/
-.ctz {
-  background: linear-gradient(rgba(34, 34, 34, 0.623), rgba(36, 36, 36, 0.527)), url("../img/ctz-bg.jpg") center center;
-  background-size: cover;
-  padding: 180px 0;
-}
-
-.ctz h3 {
-  color: #364146;
-  font-size: 28px;
-  font-weight: 600;
-}
-
-.ctz p {
-  color: #576971;
-}
-
-.ctz .ctz-btn {
-  font-family: "Calibri Light", sans-serif;
-  font-weight: 500;
-  font-size: 10px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 10px 30px;
-  border-radius: 4px;
-  transition: 0.5s;
-  margin: 10px;
-  color: #fff;
-  background: #009cea;
-}
-
-.ctz .ctz-btn:hover {
-  background: #008bd1;
-}
-
-@media (min-width: 1024px) {
-  .ctz {
-    background-attachment: fixed;
-  }
-}
-
-@media (min-width: 769px) {
-  .ctz .ctz-btn-container {
-    display: flex;
-    align-items: center;
-    central-content: flex-end;
-  }
-}
-
-/*--------------------------------------------------------------
-
-
 # Ctzo
 --------------------------------------------------------------*/
 .ctzo {
-  background: linear-gradient(rgba(34, 34, 34, 0.623), rgba(36, 36, 36, 0.527)), url("../img/ctzo-bg.jpg") center center;
+  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.5)), url("../img/ctzo-bg.jpg") center center;
   background-size: cover;
-  padding: 180px 0;
+  padding: 140px 0;
 }
 
 .ctzo h3 {
@@ -1094,9 +1301,9 @@ section {
 # Ctpo
 --------------------------------------------------------------*/
 .ctpo {
-  background: linear-gradient(rgba(34, 34, 34, 0.623), rgba(36, 36, 36, 0.527)), url("../img/ctpo-bg.jpg") center center;
+  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.5)), url("../img/ctpo-bg.jpg") center center;
   background-size: cover;
-  padding: 180px 0;
+  padding: 140px 0;
 }
 
 .ctpo h3 {
@@ -1142,213 +1349,12 @@ section {
 }
 
 
-# Ctpo11
---------------------------------------------------------------*/
-.ctpo11 {
-  background: linear-gradient(rgba(34, 34, 34, 0.623), rgba(36, 36, 36, 0.527)), url("../img/ctpo11-bg.jpg") center center;
-  background-size: cover;
-  padding: 180px 0;
-}
 
-.ctpo11 h3 {
-  color: #364146;
-  font-size: 28px;
-  font-weight: 600;
-}
-
-.ctpo11 p {
-  color: #576971;
-}
-
-.ctpo11 .ctpo11-btn {
-  font-family: "Calibri Light", sans-serif;
-  font-weight: 500;
-  font-size: 10px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 10px 30px;
-  border-radius: 4px;
-  transition: 0.5s;
-  margin: 10px;
-  color: #fff;
-  background: #009cea;
-}
-
-.ctpo11 .ctpo11-btn:hover {
-  background: #008bd1;
-}
-
-@media (min-width: 1024px) {
-  .ctpo11 {
-    background-attachment: fixed;
-  }
-}
-
-@media (min-width: 769px) {
-  .ctpo11 .ctp-btn-container {
-    display: flex;
-    align-items: center;
-    central-content: flex-end;
-  }
-}
-
-
-
-# Ctpo1
---------------------------------------------------------------*/
-.ctpo1 {
-  background: linear-gradient(rgba(34, 34, 34, 0.623), rgba(36, 36, 36, 0.527)), url("../img/ctpo1-bg.jpg") center center;
-  background-size: cover;
-  padding: 180px 0;
-}
-
-.ctpo1 h3 {
-  color: #364146;
-  font-size: 28px;
-  font-weight: 600;
-}
-
-.ctpo1 p {
-  color: #576971;
-}
-
-.ctpo1 .ctpo1-btn {
-  font-family: "Calibri Light", sans-serif;
-  font-weight: 500;
-  font-size: 10px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 10px 30px;
-  border-radius: 4px;
-  transition: 0.5s;
-  margin: 10px;
-  color: #fff;
-  background: #009cea;
-}
-
-.ctpo1 .ctpo1-btn:hover {
-  background: #008bd1;
-}
-
-@media (min-width: 1024px) {
-  .ctpo1 {
-    background-attachment: fixed;
-  }
-}
-
-@media (min-width: 769px) {
-  .ctpo1 .ctp-btn-container {
-    display: flex;
-    align-items: center;
-    central-content: flex-end;
-  }
-}
-
-
-
-# Ctp
---------------------------------------------------------------*/
-.ctp {
-  background: linear-gradient(rgba(34, 34, 34, 0.623), rgba(36, 36, 36, 0.527)), url("../img/ctp-bg.jpg") center center;
-  background-size: cover;
-  padding: 180px 0;
-}
-
-.ctp h3 {
-  color: #364146;
-  font-size: 28px;
-  font-weight: 600;
-}
-
-.ctp p {
-  color: #576971;
-}
-
-.ctp .ctp-btn {
-  font-family: "Calibri Light", sans-serif;
-  font-weight: 500;
-  font-size: 10px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 10px 30px;
-  border-radius: 4px;
-  transition: 0.5s;
-  margin: 10px;
-  color: #fff;
-  background: #009cea;
-}
-
-.ctp .ctp-btn:hover {
-  background: #008bd1;
-}
-
-@media (min-width: 1024px) {
-  .ctp {
-    background-attachment: fixed;
-  }
-}
-
-@media (min-width: 769px) {
-  .ctp .ctp-btn-container {
-    display: flex;
-    align-items: center;
-    central-content: flex-end;
-  }
-}
 
 /*--------------------------------------------------------------
 
 
 
-# Ctn
---------------------------------------------------------------*/
-.ctn {
-  background: linear-gradient(rgba(34, 34, 34, 0.623), rgba(36, 36, 36, 0.527)), url("../img/ctn-bg.jpg") center center;
-  background-size: cover;
-  padding: 180px 0;
-}
-
-.ctn h3 {
-  color: #364146;
-  font-size: 28px;
-  font-weight: 600;
-}
-
-.ctn p {
-  color: #576971;
-}
-
-.ctn .ctn-btn {
-  font-family: "Calibri Light", sans-serif;
-  font-weight: 500;
-  font-size: 10px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 10px 30px;
-  border-radius: 4px;
-  transition: 0.5s;
-  margin: 10px;
-  color: #fff;
-  background: #009cea;
-}
-
-.ctn .ctn-btn:hover {
-  background: #008bd1;
-}
-
-@media (min-width: 1024px) {
-  .ctn {
-    background-attachment: fixed;
-  }
-}
-
-@media (min-width: 769px) {
-  .ctn .ctn-btn-container {
-    display: flex;
-    align-items: center;
-    central-content: flex-end;
-  }
-}
 
 /*--------------------------------------------------------------
 # Testimonials
