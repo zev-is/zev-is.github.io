@@ -9,57 +9,87 @@
 
 <url>
   <loc>https://zevis.net/</loc>
-  <lastmod>2021-03-01T21:00:53+00:00</lastmod>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://zevis.net/index.html</loc>
-  <lastmod>2021-03-01T21:00:53+00:00</lastmod>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://zevis.net/procesvodjenja_zev.html</loc>
-  <lastmod>2021-03-01T21:00:53+00:00</lastmod>
+  <loc>https://zevis.net/neregistrovana_zgrada.html</loc>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zevis.net/registracija_zev.html</loc>
-  <lastmod>2021-03-01T21:00:53+00:00</lastmod>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zevis.net/profesionalni_upravnik.html</loc>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zevis.net/procesvodjenja_zev.html</loc>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zevis.net/obracuntroskova_zev.html</loc>
-  <lastmod>2021-03-01T21:00:53+00:00</lastmod>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zevis.net/poslovno_savjetovanje.html</loc>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zevis.net/zavsniracun_zev.html</loc>
-  <lastmod>2021-03-01T21:00:53+00:00</lastmod>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zevis.net/naplatapotrazivanja_zev.html</loc>
-  <lastmod>2021-03-01T21:00:53+00:00</lastmod>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zevis.net/predsjednik_zev.html</loc>
-  <lastmod>2021-03-01T21:00:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://zevis.net/mozejednostavnije.html</loc>
-  <lastmod>2021-03-01T21:00:53+00:00</lastmod>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zevis.net/pitanja.html</loc>
-  <lastmod>2021-03-01T21:00:53+00:00</lastmod>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zevis.net/novosti.html</loc>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://zevis.net/kontakt.html</loc>
-  <lastmod>2021-03-01T21:00:53+00:00</lastmod>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zevis.net/Pravilnik_o_upisu_u_registar_ZEV.pdf</loc>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zevis.net/Odluka_o_kucnom_redu_u_stambenim_zdradama.pdf</loc>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zevis.net/Zakon_o_odrzavanju_zgrade.pdf</loc>
+  <lastmod>2023-05-28T09:35:44+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
