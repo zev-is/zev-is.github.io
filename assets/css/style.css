@@ -1245,6 +1245,59 @@ section {
 
 /*--------------------------------------------------------------
 
+
+# Cta services
+--------------------------------------------------------------*/
+.cta9 {
+  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.5)), url("../img/cta9-bg.jpg") center center;
+  background-size: cover;
+  padding: 160px 0;
+}
+
+.cta9 h3 {
+  color: #364146;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.cta9 p {
+  color: #576971;
+}
+
+.cta9 .cta9-btn {
+  font-family: "Calibri Light", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 4px;
+  transition: 0.5s;
+  margin: 10px;
+  color: #fff;
+  background: #009cea;
+}
+
+.cta9 .cta9-btn:hover {
+  background: #008bd1;
+}
+
+@media (min-width: 1024px) {
+  .cta9 {
+    background-attachment: fixed;
+  }
+}
+
+@media (min-width: 769px) {
+  .cta9 .cta9-btn-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+}
+
+/*--------------------------------------------------------------
+
 # Cta
 --------------------------------------------------------------*/
 .cto {
